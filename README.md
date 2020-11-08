@@ -1,6 +1,6 @@
  
 <h2>Cryptography</h2>
-
+```
                   Cryptography
                        |
                  ______|________
@@ -15,7 +15,7 @@
       XoR is used    AES                                                                                                               
       to encrypt
       and decrypt
-  
+ ``` 
 
 
 <h2>Terminology</h2>
