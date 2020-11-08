@@ -13,9 +13,12 @@
              |       |       |       |
   (Bytes)Stream     Block
              |        |
-      XoR is used    AES                                                                                                               
-      to encrypt
-      and decrypt
+            RC       AES
+     XoR is used   decrypt &                                                                                                            
+      to encrypt   encrypt
+     and decrypt   both have
+                   different
+                     way
  ``` 
 
 
